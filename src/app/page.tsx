@@ -74,7 +74,7 @@ export default function LandingPage() {
       <div id="collections" data-section="collections">
         <FeatureCardThree
           title="Koleksiyonlarımız"
-          description="Her mekan için özel olarak tasarlanmış, kaliteli malzeme ve kusursuz işçiliğin birleşimi. İzmir'in en seçici müşterilerinin tercihi."
+          description="Her mekan için özel olarak tasarlanmış, kaliteli malzeme ve kusursuz işçiliğin birleşimi. LED aydınlatma efektleri, özel tasarım danışmanlığı ve 20 yıllık uzmanlık ile benzersiz yaşam alanları yaratıyoruz. İzmir'in en seçici müşterilerinin tercihi."
           tag="Premium Tasarımlar"
           textboxLayout="default"
           features={[
@@ -147,7 +147,7 @@ export default function LandingPage() {
 
       <div id="contact" data-section="contact">
         <ContactText
-          text="Lüks yaşam alanınızı hayata geçirelim. Ücretsiz danışmanlık için bugün iletişime geçin."
+          text="Yaşam alanlarınızı tasarlamaya hazır mısınız? Hadi başlayalım!"
           animationType="entrance-slide"
           background={{ variant: "plain" }}
           buttons={[
