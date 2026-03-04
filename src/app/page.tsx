@@ -147,7 +147,7 @@ export default function LandingPage() {
 
       <div id="contact" data-section="contact">
         <ContactText
-          text="Yaşam alanlarınızı tasarlamaya hazır mısınız? Hadi başlayalım!"
+          text="Lüks yaşam alanınızı hayata geçirelim. Ücretsiz danışmanlık için bugün iletişime geçin."
           animationType="entrance-slide"
           background={{ variant: "plain" }}
           buttons={[
