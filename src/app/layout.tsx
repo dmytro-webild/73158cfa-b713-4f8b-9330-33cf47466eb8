@@ -22,9 +22,11 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: "Doğa Tasarım Mobilya | Ultra-Lüks İç Mekan Tasarımı İzmir",  description: "İzmir Karabağlar'da ultra-lüks mobilya tasarımı. Premium mutfak, gardırop, TV üniteleri ve banyo mobilyaları. Temiz işçilik, kaliteli malzeme, zamanında teslimat garantisi.",  keywords: "mobilya tasarımı, iç mekan tasarımı, lüks mobilya, İzmir, Karabağlar, mutfak tasarımı, gardırop tasarımı",  openGraph: {
-    title: "Doğa Tasarım Mobilya - Yaşam Alanlarını Tasarlıyoruz",    description: "Ultra-lüks mobilya tasarımı ve üretimi. Premium koleksiyonlar, kusursuz işçilik, garantili teslimat.",    type: "website",    siteName: "Doğa Tasarım Mobilya"},
+    title: "Doğa Tasarım Mobilya - Yaşam Alanlarını Tasarlıyoruz",    description: "Ultra-lüks mobilya tasarımı ve üretimi. Premium koleksiyonlar, kusursuz işçilik, garantili teslimat.",    type: "website",    siteName: "Doğa Tasarım Mobilya"
+  },
   twitter: {
-    card: "summary_large_image",    title: "Doğa Tasarım Mobilya",    description: "Yaşam alanlarınızı tasarlıyoruz - Ultra-lüks mobilya tasarımı"},
+    card: "summary_large_image",    title: "Doğa Tasarım Mobilya",    description: "Yaşam alanlarınızı tasarlıyoruz - Ultra-lüks mobilya tasarımı"
+  },
   robots: {
     index: true,
     follow: true,
